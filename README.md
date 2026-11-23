@@ -15,7 +15,8 @@ A full-stack educational AI application combining a Python backend API, a web fr
 
 ## Architecture
 
-![Smart Education AI Platform Architecture](docs/architecture.png)
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/1ea3b5fa-efcc-455f-9cc9-a6a0a966176c" />
+
 
 ## Project Structure
 
